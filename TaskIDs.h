@@ -1,0 +1,3 @@
+
+#define MOTOR_CONTROLLER 0
+#define DISPLAY_CONTROLLER 1
